@@ -1,4 +1,6 @@
 ## Hi there 👋
+🌱 I'm currently working on cybersecurity tools and practices...
+💬 I'm building projects to enhance my skillset...
 
 <!--
 **jyosthna-tech-in/jyosthna-tech-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
