@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Jyosthna, a cyber security student. I'm currently learning foundations in cyber security.apart from this, I'm eager and currently gaining deeper technical proficiency in AI & Machine Learning.
 
 <!--
 **jyosthna-tech-in/jyosthna-tech-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
